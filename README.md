@@ -59,8 +59,6 @@ If you encounter any issues or have any questions, please open an issue in this 
 
 Thank you for using the Android Mod Menu Injector! We hope this tool enhances your game modding experience.
 
-javascript
-
 
 You can save this content as `README.md` in your repository.
 
