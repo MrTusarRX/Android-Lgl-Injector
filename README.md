@@ -27,7 +27,7 @@ Welcome to the **Android Mod Menu Injector** repository! This project provides a
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/MrTusarRX/Android-Lgl-Injector.git
-   cd android-mod-menu-injector
+   cd Android-Lgl-Injector
 
     Build the Project:
     Follow the instructions in the BUILD.md file to compile the injector.
